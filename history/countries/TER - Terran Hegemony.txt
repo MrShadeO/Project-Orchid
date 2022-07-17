@@ -1,0 +1,42 @@
+capital = 2
+set_stability = 0.50
+set_war_support = 0.50
+set_research_slots = 4
+
+set_convoys = 20
+starting_train_buffer = 5
+
+add_ideas = {
+	
+}
+
+set_politics = {
+	ruling_party = fascism
+	last_election = "2629.1.1"
+	election_frequency = 48
+	elections_allowed = no
+}
+
+set_popularities = {
+	democratic = 20
+	fascism = 60
+	communism = 20
+	neutrality = 0
+}
+
+# Characters
+recruit_character = TER_kristoff_moller
+recruit_character = TER_edmond_kane
+recruit_character = TER_jordan_nix
+recruit_character = TER_michael_kleiner
+recruit_character = TER_victoria_de_leon
+recruit_character = TER_dominic_carter
+recruit_character = TER_stephen_larson
+recruit_character = TER_carlos_menendez
+recruit_character = TER_luis_lorenzo
+recruit_character = TER_june_kennedy
+
+# Starting tech
+set_technology = {
+	infantry_weapons = 1
+}

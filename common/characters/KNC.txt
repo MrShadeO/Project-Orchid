@@ -1,0 +1,41 @@
+characters = {
+
+    # COUNTRY LEADERS
+	KNC_kaneko_tatsuo = { 
+		name = "Kaneko Tatsuo"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/KNC/Portrait_KNC_Kaneko_Tatsuo.dds"
+			}
+		}
+		country_leader = {
+			ideology = technocracy_sub 
+			expire = "2650.1.1.1"
+			desc = "POLITICS_KANEKO_TATSUO_DESC"
+			traits = {  }
+		}
+        country_leader = {
+			ideology = liberty_sub
+			expire = "2650.1.1.1"
+			desc = "POLITICS_KANEKO_TATSUO_DESC"
+			traits = {  }
+		}
+        country_leader = {
+			ideology = authority_sub
+			expire = "2650.1.1.1"
+			desc = "POLITICS_KANEKO_TATSUO_DESC"
+			traits = {  }
+		}
+        country_leader = {
+			ideology = theocracy_sub
+			expire = "2650.1.1.1"
+			desc = "POLITICS_KANEKO_TATSUO_DESC"
+			traits = {  }
+		}
+	}
+
+	#ARMY
+
+	#NAVY
+	
+}

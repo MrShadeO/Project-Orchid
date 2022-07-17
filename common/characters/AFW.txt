@@ -1,0 +1,41 @@
+characters = {
+
+    # COUNTRY LEADERS
+	AFW_laura_keegan = { 
+		name = "Laura Keegan"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/AFW/Portrait_AFW_Laura_Keegan.dds"
+			}
+		}
+		country_leader = {
+			ideology = technocracy_sub 
+			expire = "2650.1.1.1"
+			desc = "POLITICS_LAURA_KEEGAN_DESC"
+			traits = {  }
+		}
+        country_leader = {
+			ideology = liberty_sub
+			expire = "2650.1.1.1"
+			desc = "POLITICS_LAURA_KEEGAN_DESC"
+			traits = {  }
+		}
+        country_leader = {
+			ideology = authority_sub
+			expire = "2650.1.1.1"
+			desc = "POLITICS_LAURA_KEEGAN_DESC"
+			traits = {  }
+		}
+        country_leader = {
+			ideology = theocracy_sub
+			expire = "2650.1.1.1"
+			desc = "POLITICS_LAURA_KEEGAN_DESC"
+			traits = {  }
+		}
+	}
+
+	#ARMY
+
+	#NAVY
+	
+}

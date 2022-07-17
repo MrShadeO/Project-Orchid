@@ -1,0 +1,23 @@
+﻿l_english:
+ communism:0 "Liberty"
+ communism_noun:0 "Liberty"
+ communism_desc:0 "Democratic Regime"
+ democratic:0 "Technocracy"
+ democratic_noun:0 "Technocracy"
+ democratic_desc:0 "Technocratic Regime"
+ fascism:0 "Authority"
+ fascism_noun:0 "Authority"
+ fascism_desc:0 "Authoritarian Regime"
+ neutrality:0 "Theocracy"
+ neutrality_noun:0 "Theocracy"
+ neutrality_desc:0 "Theocratic Regime"
+
+ liberty_sub:0 "Liberty"
+ liberty_sub_desc:0 ""
+ authority_sub:0 "Authority"
+ authority_sub_desc:0 ""
+ technocracy_sub:0 "Technocracy"
+ technocracy_sub_desc:0 ""
+ theocracy_sub:0 "Theocracy"
+ theocracy_sub_desc:0 ""
+ 

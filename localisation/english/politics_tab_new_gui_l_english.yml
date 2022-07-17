@@ -1,0 +1,6 @@
+﻿l_english:
+ government_cat_title_text:0 "[ROOT.GetGovernmentCatTitle]"
+ laws_cat_title_text:0 "[ROOT.GetLawsCatTitle]"
+ society_cat_title_text:0 "[ROOT.GetSocietyCatTitle]"
+ research_cat_title_text:0 "[ROOT.GetResearchCatTitle]"
+ military_cat_title_text:0 "[ROOT.GetMilitaryCatTitle]"

@@ -1,0 +1,66 @@
+spriteTypes = {	
+    spriteType = {
+		name = "GFX_government_cat_icon"
+		texturefile = "gfx/interface/government_cat_icon.dds"
+	}	
+
+    spriteType = {
+		name = "GFX_laws_cat_icon"
+		texturefile = "gfx/interface/laws_cat_icon.dds"
+	}	
+
+    spriteType = {
+		name = "GFX_society_cat_icon"
+		texturefile = "gfx/interface/society_cat_icon.dds"
+	}
+
+    spriteType = {
+		name = "GFX_research_cat_icon"
+		texturefile = "gfx/interface/research_cat_icon.dds"
+	}
+
+    spriteType = {
+		name = "GFX_military_cat_icon"
+		texturefile = "gfx/interface/military_cat_icon.dds"
+	}
+
+	spriteType = {
+		name = "GFX_TER_category_header"
+		texturefile = "gfx/interface/TER_category_header.dds"
+	}
+
+	spriteType = {
+		name = "GFX_AFW_category_header"
+		texturefile = "gfx/interface/AFW_category_header.dds"
+	}
+
+	spriteType = {
+		name = "GFX_KNC_category_header"
+		texturefile = "gfx/interface/KNC_category_header.dds"
+	}
+
+	spriteType = {
+		name = "GFX_LAZ_category_header"
+		texturefile = "gfx/interface/LAZ_category_header.dds"
+	}
+
+	spriteType = {
+		name = "GFX_FOY_category_header"
+		texturefile = "gfx/interface/FOY_category_header.dds"
+	}
+
+	spriteType = {
+		name = "GFX_OTC_category_header"
+		texturefile = "gfx/interface/OTC_category_header.dds"
+	}
+
+	spriteType = {
+		name = "GFX_KAN_category_header"
+		texturefile = "gfx/interface/KAN_category_header.dds"
+	}
+
+	spriteType = {
+		name = "GFX_EMV_category_header"
+		texturefile = "gfx/interface/EMV_category_header.dds"
+	}
+}

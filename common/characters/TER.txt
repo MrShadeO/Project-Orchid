@@ -1,0 +1,194 @@
+characters = {
+
+    # COUNTRY LEADERS
+	TER_kristoff_moller = { 
+		name = "Kristoff Møller"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/TER/Portrait_TER_Kristoff_Møller.dds"
+			}
+			army = {
+				large = "gfx/leaders/TER/Portrait_TER_Kristoff_Møller.dds"
+			}
+		}
+		country_leader = {
+			ideology = technocracy_sub 
+			expire = "2650.1.1.1"
+			desc = "POLITICS_KRISTOFF_MOLLER_DESC"
+			traits = {  }
+		}
+        country_leader = {
+			ideology = liberty_sub
+			expire = "2650.1.1.1"
+			desc = "POLITICS_KRISTOFF_MOLLER_DESC"
+			traits = {  }
+		}
+        country_leader = {
+			ideology = authority_sub
+			expire = "2650.1.1.1"
+			desc = "POLITICS_KRISTOFF_MOLLER_DESC"
+			traits = {  }
+		}
+        country_leader = {
+			ideology = theocracy_sub
+			expire = "2650.1.1.1"
+			desc = "POLITICS_KRISTOFF_MOLLER_DESC"
+			traits = {  }
+		}
+	}
+
+	#ARMY
+	TER_edmond_kane = { 
+		name = "Edmond Kane"
+		portraits = {
+			army = {
+				large = "gfx/leaders/TER/Portrait_TER_Edmond_Kane.dds"
+			}
+		}
+		field_marshal = {
+			skill = 1
+			attack_skill = 1
+			defense_skill = 1
+			planning_skill = 1
+			logistics_skill = 1
+			traits = {  }
+		}
+	}
+
+	TER_jordan_nix = { 
+		name = "Jordan Nix"
+		portraits = {
+			army = {
+				large = "gfx/leaders/TER/Portrait_TER_Jordan_Nix.dds"
+			}
+		}
+		corps_commander = {
+			skill = 1
+			attack_skill = 1
+			defense_skill = 1
+			planning_skill = 1
+			logistics_skill = 1
+			traits = {  }
+		}
+	}
+
+	TER_michael_kleiner = { 
+		name = "Michael Kleiner"
+		portraits = {
+			army = {
+				large = "gfx/leaders/TER/Portrait_TER_Michael_Kleiner.dds"
+			}
+		}
+		corps_commander = {
+			skill = 1
+			attack_skill = 1
+			defense_skill = 1
+			planning_skill = 1
+			logistics_skill = 1
+			traits = {  }
+		}
+	}
+
+	TER_victoria_de_leon = { 
+		name = "Victoria De León"
+		portraits = {
+			army = {
+				large = "gfx/leaders/TER/Portrait_TER_Victoria_De_León.dds"
+			}
+		}
+		corps_commander = {
+			skill = 1
+			attack_skill = 1
+			defense_skill = 1
+			planning_skill = 1
+			logistics_skill = 1
+			traits = {  }
+		}
+	}
+
+	TER_dominic_carter = { 
+		name = "Dominic Carter"
+		portraits = {
+			army = {
+				large = "gfx/leaders/TER/Portrait_TER_Dominic_Carter.dds"
+			}
+		}
+		corps_commander = {
+			skill = 1
+			attack_skill = 1
+			defense_skill = 1
+			planning_skill = 1
+			logistics_skill = 1
+			traits = {  }
+		}
+	}
+
+	TER_stephen_larson = { 
+		name = "Stephen Larson"
+		portraits = {
+			army = {
+				large = "gfx/leaders/TER/Portrait_TER_Stephen_Larson.dds"
+			}
+		}
+		corps_commander = {
+			skill = 1
+			attack_skill = 1
+			defense_skill = 1
+			planning_skill = 1
+			logistics_skill = 1
+			traits = {  }
+		}
+	}
+
+	TER_carlos_menendez = { 
+		name = "Carlos Menendez"
+		portraits = {
+			army = {
+				large = "gfx/leaders/TER/Portrait_TER_Carlos_Menendez.dds"
+			}
+		}
+		corps_commander = {
+			skill = 1
+			attack_skill = 1
+			defense_skill = 1
+			planning_skill = 1
+			logistics_skill = 1
+			traits = {  }
+		}
+	}
+
+	TER_luis_lorenzo = { 
+		name = "Luis Lorenzo"
+		portraits = {
+			army = {
+				large = "gfx/leaders/TER/Portrait_TER_Luis_Lorenzo.dds"
+			}
+		}
+		corps_commander = {
+			skill = 1
+			attack_skill = 1
+			defense_skill = 1
+			planning_skill = 1
+			logistics_skill = 1
+			traits = {  }
+		}
+	}
+
+	#NAVY
+	TER_june_kennedy = { 
+		name = "June Kennedy"
+		portraits = {
+			navy = {
+				large = "gfx/leaders/TER/Portrait_TER_June_Kennedy.dds"
+			}
+		}
+		navy_leader = {
+			skill = 1
+			attack_skill = 1
+			defense_skill = 1
+			maneuvering_skill = 1
+			coordination_skill = 1
+			traits = {  }
+		}
+	}
+}

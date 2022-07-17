@@ -1,0 +1,41 @@
+characters = {
+
+    # COUNTRY LEADERS
+	EMV_eladir = { 
+		name = "Eladir"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/EMV/Portrait_EMV_Eladir.dds"
+			}
+		}
+		country_leader = {
+			ideology = technocracy_sub 
+			expire = "2650.1.1.1"
+			desc = "POLITICS_ELADIR_DESC"
+			traits = {  }
+		}
+        country_leader = {
+			ideology = liberty_sub
+			expire = "2650.1.1.1"
+			desc = "POLITICS_ELADIR_DESC"
+			traits = {  }
+		}
+        country_leader = {
+			ideology = authority_sub
+			expire = "2650.1.1.1"
+			desc = "POLITICS_ELADIR_DESC"
+			traits = {  }
+		}
+        country_leader = {
+			ideology = theocracy_sub
+			expire = "2650.1.1.1"
+			desc = "POLITICS_ELADIR_DESC"
+			traits = {  }
+		}
+	}
+
+	#ARMY
+
+	#NAVY
+	
+}

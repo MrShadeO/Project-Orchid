@@ -1,0 +1,41 @@
+characters = {
+
+    # COUNTRY LEADERS
+	LAZ_first_host = { 
+		name = "First Host"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/LAZ/Portrait_LAZ_First_Host.dds"
+			}
+		}
+		country_leader = {
+			ideology = technocracy_sub 
+			expire = "2650.1.1.1"
+			desc = "POLITICS_FIRST_HOST_DESC"
+			traits = {  }
+		}
+        country_leader = {
+			ideology = liberty_sub
+			expire = "2650.1.1.1"
+			desc = "POLITICS_FIRST_HOST_DESC"
+			traits = {  }
+		}
+        country_leader = {
+			ideology = authority_sub
+			expire = "2650.1.1.1"
+			desc = "POLITICS_FIRST_HOST_DESC"
+			traits = {  }
+		}
+        country_leader = {
+			ideology = theocracy_sub
+			expire = "2650.1.1.1"
+			desc = "POLITICS_FIRST_HOST_DESC"
+			traits = {  }
+		}
+	}
+
+	#ARMY
+
+	#NAVY
+	
+}

@@ -1,0 +1,41 @@
+characters = {
+
+    # COUNTRY LEADERS
+	KAN_gabrijel_novak = { 
+		name = "Gabrijel Novak"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/KAN/Portrait_KAN_Gabrijel_Novak.dds"
+			}
+		}
+		country_leader = {
+			ideology = technocracy_sub 
+			expire = "2650.1.1.1"
+			desc = "POLITICS_GABRIJEL_NOVAK_DESC"
+			traits = {  }
+		}
+        country_leader = {
+			ideology = liberty_sub
+			expire = "2650.1.1.1"
+			desc = "POLITICS_GABRIJEL_NOVAK_DESC"
+			traits = {  }
+		}
+        country_leader = {
+			ideology = authority_sub
+			expire = "2650.1.1.1"
+			desc = "POLITICS_GABRIJEL_NOVAK_DESC"
+			traits = {  }
+		}
+        country_leader = {
+			ideology = theocracy_sub
+			expire = "2650.1.1.1"
+			desc = "POLITICS_GABRIJEL_NOVAK_DESC"
+			traits = {  }
+		}
+	}
+
+	#ARMY
+
+	#NAVY
+	
+}

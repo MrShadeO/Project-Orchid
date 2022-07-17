@@ -1,0 +1,41 @@
+characters = {
+
+    # COUNTRY LEADERS
+	OTC_nelaka_ency = { 
+		name = "Nelaka Ency"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/OTC/Portrait_OTC_Nelaka_Ency.dds"
+			}
+		}
+		country_leader = {
+			ideology = technocracy_sub 
+			expire = "2650.1.1.1"
+			desc = "POLITICS_NELAKA_ENCY_DESC"
+			traits = {  }
+		}
+        country_leader = {
+			ideology = liberty_sub
+			expire = "2650.1.1.1"
+			desc = "POLITICS_NELAKA_ENCY_DESC"
+			traits = {  }
+		}
+        country_leader = {
+			ideology = authority_sub
+			expire = "2650.1.1.1"
+			desc = "POLITICS_NELAKA_ENCY_DESC"
+			traits = {  }
+		}
+        country_leader = {
+			ideology = theocracy_sub
+			expire = "2650.1.1.1"
+			desc = "POLITICS_NELAKA_ENCY_DESC"
+			traits = {  }
+		}
+	}
+
+	#ARMY
+
+	#NAVY
+	
+}

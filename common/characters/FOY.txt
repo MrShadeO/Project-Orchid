@@ -1,0 +1,41 @@
+characters = {
+
+    # COUNTRY LEADERS
+	FOY_bilal_ibn_rabah = { 
+		name = "Bilāl ibn Rabāh"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/FOY/Portrait_FOY_Bilal_ibn_Rabah.dds"
+			}
+		}
+		country_leader = {
+			ideology = technocracy_sub 
+			expire = "2650.1.1.1"
+			desc = "POLITICS_BILAL_IBN_RABAH_DESC"
+			traits = {  }
+		}
+        country_leader = {
+			ideology = liberty_sub
+			expire = "2650.1.1.1"
+			desc = "POLITICS_BILAL_IBN_RABAH_DESC"
+			traits = {  }
+		}
+        country_leader = {
+			ideology = authority_sub
+			expire = "2650.1.1.1"
+			desc = "POLITICS_BILAL_IBN_RABAH_DESC"
+			traits = {  }
+		}
+        country_leader = {
+			ideology = theocracy_sub
+			expire = "2650.1.1.1"
+			desc = "POLITICS_BILAL_IBN_RABAH_DESC"
+			traits = {  }
+		}
+	}
+
+	#ARMY
+
+	#NAVY
+	
+}

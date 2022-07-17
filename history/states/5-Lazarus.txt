@@ -1,0 +1,17 @@
+
+state = {
+	id = 5
+	name = "STATE_5"
+	provinces = {
+		17604
+	}
+	
+	history = {
+		owner = LAZ
+		add_core_of = LAZ
+	}
+    
+	manpower = 1
+	buildings_max_level_factor = 1.000
+	state_category = town
+}

@@ -1,0 +1,113 @@
+bookmarks = {
+	bookmark = {
+		name = "GATHERING_STORM_NAME"
+		desc = "GATHERING_STORM_DESC"
+		date = 2629.1.1.12
+		picture = "GFX_select_date_1936"
+		default_country = "TER"
+		default = yes
+		
+		"TER" = {
+			history = "TER_GATHERING_STORM_DESC"
+			ideology = democratic
+			ideas = {
+				
+				
+			}
+			focuses = {
+			
+			}
+		}
+
+		"AFW" = {
+			history = "AFW_GATHERING_STORM_DESC"
+			ideology = democratic
+			ideas = {
+				
+				
+			}
+			focuses = {
+			
+			}
+		}
+
+		"KNC" = {
+			history = "KNC_GATHERING_STORM_DESC"
+			ideology = democratic
+			ideas = {
+				
+				
+			}
+			focuses = {
+			
+			}
+		}
+
+		"LAZ" = {
+			history = "LAZ_GATHERING_STORM_DESC"
+			ideology = democratic
+			ideas = {
+				
+				
+			}
+			focuses = {
+			
+			}
+		}
+
+		"FOY" = {
+			history = "FOY_GATHERING_STORM_DESC"
+			ideology = democratic
+			ideas = {
+				
+				
+			}
+			focuses = {
+			
+			}
+		}
+
+		"OTC" = {
+			history = "OTC_GATHERING_STORM_DESC"
+			ideology = democratic
+			ideas = {
+				
+				
+			}
+			focuses = {
+			
+			}
+		}
+
+		"KAN" = {
+			history = "KAN_GATHERING_STORM_DESC"
+			ideology = democratic
+			ideas = {
+				
+				
+			}
+			focuses = {
+			
+			}
+		}
+
+		"EMV" = {
+			history = "EMV_GATHERING_STORM_DESC"
+			ideology = democratic
+			ideas = {
+				
+				
+			}
+			focuses = {
+			
+			}
+		}
+
+		
+
+		effect = {
+			randomize_weather = 12345 # <- Obligatory in every bookmark !
+			#123 = { rain_light = yes }
+		}
+	}
+}

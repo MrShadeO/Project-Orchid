@@ -1,0 +1,17 @@
+
+state = {
+	id = 9
+	name = "STATE_9"
+	provinces = {
+		16011
+	}
+	
+	history = {
+		owner = EMV
+		add_core_of = EMV
+	}
+    
+	manpower = 1
+	buildings_max_level_factor = 1.000
+	state_category = town
+}

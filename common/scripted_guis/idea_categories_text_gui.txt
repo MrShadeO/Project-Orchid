@@ -1,0 +1,37 @@
+scripted_gui = {
+    idea_categories_text_gui = {
+        window_name = "idea_categories_text"
+        context_type = player_context
+        parent_window_name = "idea_categories_container"
+        
+        effects = {
+            
+        }
+        
+        triggers = {
+            
+        }
+        
+        properties = {
+            government_category_header = {
+                image = "[ROOT.GetCategoryHeader]"
+            }
+
+            laws_category_header = {
+                image = "[ROOT.GetCategoryHeader]"
+            }
+
+            society_category_header = {
+                image = "[ROOT.GetCategoryHeader]"
+            }
+
+            research_category_header = {
+                image = "[ROOT.GetCategoryHeader]"
+            }
+
+            military_category_header = {
+                image = "[ROOT.GetCategoryHeader]"
+            }
+        }
+    }
+}

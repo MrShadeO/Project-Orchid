@@ -1,0 +1,184 @@
+# Adjacency rules determine if an army, navy or trade can pass through the adjacency (e.g. a canal or strait).
+#
+# If two countries at war control provinces in the adjacency it is considered contested.
+# The optional triggers is_enemy, is_friend and is_neutral are evaluated in order and if one evaluates to true the corresponding rule is used.
+# If is_enemy and is_friend evaluates to false the neutral rule is used. In this case the is_neutral trigger will not be evaluated at all.
+# If is_friend and is_neutral evaluates to false the enemy rule is used.
+# If is_enemy and is_neutral evaluates to false the friend rule is used.
+# If any adjacency province controller is at war with the country the enemy rule is used, unless is_enemy evaluates to false, then the neutral rule is used.
+# If any adjacency province controller is an ally of is giving military access to the country the friend rule is used, unless is_friend evaluates to false, then the neutral rule is used.
+# Otherwise the neutral rule is used, unless is_neutral evaluates to false, then the enemy rule is used.
+#
+# The 'name' property is how you refer to the rule in adjacencies.csv
+
+#Suez Canal
+
+adjacency_rule = {
+	name = "ARCHEA_CANAL"
+
+	contested = {
+		army = no
+		navy = no
+		submarine = no
+		trade = no
+	}
+	enemy = {
+		army = no
+		navy = no
+		submarine = no
+		trade = no
+	}
+	friend = {
+		army = yes
+		navy = yes
+		submarine = yes
+		trade = yes
+	}
+	neutral = {
+		army = yes
+		navy = yes
+		submarine = yes
+		trade = yes
+	}
+	
+	required_provinces = { 6208 14944 }
+		
+	icon = 14944
+	offset = { 0 0 0 }
+}
+
+adjacency_rule = {
+	name = "NORTH_AGRIA_CANAL_1"
+
+	contested = {
+		army = no
+		navy = no
+		submarine = no
+		trade = no
+	}
+	enemy = {
+		army = no
+		navy = no
+		submarine = no
+		trade = no
+	}
+	friend = {
+		army = yes
+		navy = yes
+		submarine = yes
+		trade = yes
+	}
+	neutral = {
+		army = yes
+		navy = yes
+		submarine = yes
+		trade = yes
+	}
+	
+	required_provinces = { 5313 10803 10820 }
+		
+	icon = 5313
+	offset = { 0 0 0 }
+}
+
+adjacency_rule = {
+	name = "NORTH_AGRIA_CANAL_2"
+
+	contested = {
+		army = no
+		navy = no
+		submarine = no
+		trade = no
+	}
+	enemy = {
+		army = no
+		navy = no
+		submarine = no
+		trade = no
+	}
+	friend = {
+		army = yes
+		navy = yes
+		submarine = yes
+		trade = yes
+	}
+	neutral = {
+		army = yes
+		navy = yes
+		submarine = yes
+		trade = yes
+	}
+	
+	required_provinces = { 10801 10747 10754 }
+		
+	icon = 10801
+	offset = { 0 0 0 }
+}
+
+adjacency_rule = {
+	name = "NORTH_AGRIA_CANAL_3"
+
+	contested = {
+		army = no
+		navy = no
+		submarine = no
+		trade = no
+	}
+	enemy = {
+		army = no
+		navy = no
+		submarine = no
+		trade = no
+	}
+	friend = {
+		army = yes
+		navy = yes
+		submarine = yes
+		trade = yes
+	}
+	neutral = {
+		army = yes
+		navy = yes
+		submarine = yes
+		trade = yes
+	}
+	
+	required_provinces = { 10829 }
+		
+	icon = 10829
+	offset = { 0 0 0 }
+}
+
+adjacency_rule = {
+	name = "NORTH_AGRIA_CANAL_4"
+
+	contested = {
+		army = no
+		navy = no
+		submarine = no
+		trade = no
+	}
+	enemy = {
+		army = no
+		navy = no
+		submarine = no
+		trade = no
+	}
+	friend = {
+		army = yes
+		navy = yes
+		submarine = yes
+		trade = yes
+	}
+	neutral = {
+		army = yes
+		navy = yes
+		submarine = yes
+		trade = yes
+	}
+	
+	required_provinces = { 10430 }
+		
+	icon = 10430
+	offset = { 0 0 0 }
+}

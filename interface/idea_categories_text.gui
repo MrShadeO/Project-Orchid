@@ -1,0 +1,117 @@
+guiTypes = {
+    containerWindowType = {
+		name = "idea_categories_text"
+		position = { x = 86 y = 0 }	
+		size = { width = 100%% height = 100%% }
+
+        iconType ={
+			name = "government_category_header"
+			spriteType = "GFX_category_header"
+			position = { x = -74 y = 2 }
+			Orientation = "UPPER_LEFT"
+		}
+
+        iconType = {
+			name = "government_cat_icon"
+			spriteType = "GFX_government_cat_icon"
+			position = { x = -50 y = 7 }
+		}
+		
+		instantTextboxType = {
+            name = "government_cat_title"
+            position = { x = 0 y = 14 }
+            font = "hoi_20b"
+            text = "government_cat_title_text"
+            maxWidth = 300
+            maxHeight = 20
+        }
+
+        iconType ={
+			name = "laws_category_header"
+			spriteType = "GFX_category_header"
+			position = { x = -74 y = 108 }
+			Orientation = "UPPER_LEFT"
+		}
+
+        iconType = {
+			name = "laws_cat_icon"
+			spriteType = "GFX_laws_cat_icon"
+			position = { x = -50 y = 113 }
+		}
+
+        instantTextboxType = {
+            name = "laws_cat_title"
+            position = { x = 0 y = 120 }
+            font = "hoi_20b"
+            text = "laws_cat_title_text"
+            maxWidth = 300
+            maxHeight = 20
+        }
+
+        iconType ={
+			name = "society_category_header"
+			spriteType = "GFX_category_header"
+			position = { x = -74 y = 214 }
+			Orientation = "UPPER_LEFT"
+		}
+
+        iconType = {
+			name = "society_cat_icon"
+			spriteType = "GFX_society_cat_icon"
+			position = { x = -50 y = 219 }
+		}
+
+        instantTextboxType = {
+            name = "society_cat_title"
+            position = { x = 0 y = 226 }
+            font = "hoi_20b"
+            text = "society_cat_title_text"
+            maxWidth = 300
+            maxHeight = 20
+        }
+
+        iconType ={
+			name = "research_category_header"
+			spriteType = "GFX_category_header"
+			position = { x = -74 y = 320 }
+			Orientation = "UPPER_LEFT"
+		}
+
+        iconType = {
+			name = "research_cat_icon"
+			spriteType = "GFX_research_cat_icon"
+			position = { x = -50 y = 325 }
+		}
+
+        instantTextboxType = {
+            name = "research_cat_title"
+            position = { x = 0 y = 332 }
+            font = "hoi_20b"
+            text = "research_cat_title_text"
+            maxWidth = 300
+            maxHeight = 20
+        }
+
+        iconType ={
+			name = "military_category_header"
+			spriteType = "GFX_category_header"
+			position = { x = -74 y = 426 }
+			Orientation = "UPPER_LEFT"
+		}
+
+        iconType = {
+			name = "military_cat_icon"
+			spriteType = "GFX_military_cat_icon"
+			position = { x = -50 y = 431 }
+		}
+
+        instantTextboxType = {
+            name = "military_cat_title"
+            position = { x = 0 y = 438 }
+            font = "hoi_20b"
+            text = "military_cat_title_text"
+            maxWidth = 300
+            maxHeight = 20
+        }
+    }
+}
