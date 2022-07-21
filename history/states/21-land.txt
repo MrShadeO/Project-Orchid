@@ -1,0 +1,16 @@
+state={
+	id=21
+	name="STATE_21"
+	provinces={
+		2851 7836 7849 
+	}
+
+	history={
+		owner = NEU
+
+	}
+	
+	manpower=1
+	buildings_max_level_factor=1.000
+	state_category=town
+}

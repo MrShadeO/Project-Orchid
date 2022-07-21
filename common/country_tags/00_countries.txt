@@ -11,6 +11,9 @@ USA = "countries/USA.txt"
 MAN = "countries/Manchukou.txt"
 ITA = "countries/Italy.txt"
 
+# Neutral Territory Tag
+NEU = "countries/Unclaimed Territory.txt"
+
 # Major country tags
 TER = "countries/Terran Hegemony.txt"
 AFW = "countries/Alliance of Free Worlds.txt"

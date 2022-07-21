@@ -1,0 +1,15 @@
+state={
+	id=47
+	name="STATE_47"
+	provinces={
+		2690 4265 4354 5582 5616 6211 6912 7307 13429 13484 13512 13732 
+	}
+	
+	history = { 
+		owner = NEU
+	}
+    
+	manpower = 1
+	buildings_max_level_factor = 1.000
+	state_category = town
+}

@@ -1,0 +1,17 @@
+state={
+	id=94
+	name="STATE_94"
+	provinces={
+		207 1919 4418 4995 5468 5496 6939 7473 9213 9410 9629 9806 16365 16392 16398 16440 16478 16487 16491 16546 
+	}
+
+	history={
+		owner = NEU
+
+	}
+	
+	manpower=1
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

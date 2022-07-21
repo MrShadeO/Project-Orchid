@@ -63,4 +63,44 @@ spriteTypes = {
 		name = "GFX_EMV_category_header"
 		texturefile = "gfx/interface/EMV_category_header.dds"
 	}
+
+	spriteType = {
+		name = "GFX_TER_colored_frame"
+		texturefile = "gfx/interface/TER_colored_frame.dds"
+	}
+
+	spriteType = {
+		name = "GFX_AFW_colored_frame"
+		texturefile = "gfx/interface/AFW_colored_frame.dds"
+	}
+
+	spriteType = {
+		name = "GFX_KNC_colored_frame"
+		texturefile = "gfx/interface/KNC_colored_frame.dds"
+	}
+
+	spriteType = {
+		name = "GFX_LAZ_colored_frame"
+		texturefile = "gfx/interface/LAZ_colored_frame.dds"
+	}
+
+	spriteType = {
+		name = "GFX_FOY_colored_frame"
+		texturefile = "gfx/interface/FOY_colored_frame.dds"
+	}
+
+	spriteType = {
+		name = "GFX_OTC_colored_frame"
+		texturefile = "gfx/interface/OTC_colored_frame.dds"
+	}
+
+	spriteType = {
+		name = "GFX_KAN_colored_frame"
+		texturefile = "gfx/interface/KAN_colored_frame.dds"
+	}
+
+	spriteType = {
+		name = "GFX_EMV_colored_frame"
+		texturefile = "gfx/interface/EMV_colored_frame.dds"
+	}
 }

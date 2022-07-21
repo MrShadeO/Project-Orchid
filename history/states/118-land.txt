@@ -1,0 +1,18 @@
+
+state={
+	id=118
+	name="STATE_118"
+
+	history={
+		owner = NEU
+
+	}
+
+	provinces={
+		411 1758 1772 1873 2738 2962 3134 3146 3726 6511 6708 6834 7170 7862 8925 9685 17364 17368 17413 17416 17435 17447 17453 17464 17470 17473 17478 17481 17482 17486 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

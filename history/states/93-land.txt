@@ -1,0 +1,17 @@
+state={
+	id=93
+	name="STATE_93"
+	provinces={
+		5009 5909 7588 15956 15967 16059 
+	}
+
+	history={
+		owner = NEU
+
+	}
+	
+	manpower=1
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

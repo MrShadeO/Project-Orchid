@@ -1,0 +1,279 @@
+ideas = {
+
+    army_funding = {
+        law = yes
+		use_list_view = yes
+
+        minimal_army_funding = {
+
+            default = yes
+
+            cost = 150
+
+			removal_cost = -1
+
+			modifier = {
+				political_power_gain = -0.10
+			}
+
+			cancel_if_invalid = no
+        }
+
+        low_army_funding = {
+
+            cost = 150
+            
+			removal_cost = -1
+
+			modifier = {
+				political_power_gain = -0.20
+                experience_gain_army_factor = 0.05
+                army_morale_factor = 0.05
+                army_org_factor = 0.05
+                experience_loss_factor = -0.05
+                special_forces_cap = 0.05
+			}
+
+			cancel_if_invalid = no
+        }
+
+        moderate_army_funding = {
+
+            cost = 150
+            
+			removal_cost = -1
+
+			modifier = {
+				political_power_gain = -0.30
+                experience_gain_army_factor = 0.10
+                army_morale_factor = 0.10
+                army_org_factor = 0.10
+                experience_loss_factor = -0.10
+                special_forces_cap = 0.10
+			}
+
+			cancel_if_invalid = no
+        }
+
+        high_army_funding = {
+
+            cost = 150
+            
+			removal_cost = -1
+
+			modifier = {
+				political_power_gain = -0.40
+                experience_gain_army_factor = 0.15
+                army_morale_factor = 0.15
+                army_org_factor = 0.15
+                experience_loss_factor = -0.15
+                special_forces_cap = 0.15
+			}
+
+			cancel_if_invalid = no
+        }
+
+        maximum_army_funding = {
+
+            cost = 150
+            
+			removal_cost = -1
+
+			modifier = {
+				political_power_gain = -0.50
+                experience_gain_army_factor = 0.20
+                army_morale_factor = 0.20
+                army_org_factor = 0.20
+                experience_loss_factor = -0.20
+                special_forces_cap = 0.20
+			}
+
+			cancel_if_invalid = no
+        }
+
+    }
+
+    navy_funding = {
+        law = yes
+		use_list_view = yes
+
+        minimal_navy_funding = {
+            
+            default = yes
+
+            cost = 150
+
+			removal_cost = -1
+
+			modifier = {
+				political_power_gain = -0.10
+			}
+
+			cancel_if_invalid = no
+        }
+
+        low_navy_funding = {
+
+            cost = 150
+            
+			removal_cost = -1
+
+			modifier = {
+				political_power_gain = -0.20
+                experience_gain_navy_factor = 0.05
+                naval_morale_factor = 0.05
+                navy_org_factor = 0.05
+                repair_speed_factor = 0.05
+                navy_max_range_factor = 0.05
+			}
+
+			cancel_if_invalid = no
+        }
+
+        moderate_navy_funding = {
+
+            cost = 150
+            
+			removal_cost = -1
+
+			modifier = {
+				political_power_gain = -0.30
+                experience_gain_navy_factor = 0.10
+                naval_morale_factor = 0.10
+                navy_org_factor = 0.10
+                repair_speed_factor = 0.10
+                navy_max_range_factor = 0.10
+			}
+
+			cancel_if_invalid = no
+        }
+
+        high_navy_funding = {
+
+            cost = 150
+            
+			removal_cost = -1
+
+			modifier = {
+				political_power_gain = -0.40
+                experience_gain_navy_factor = 0.15
+                naval_morale_factor = 0.15
+                navy_org_factor = 0.15
+                repair_speed_factor = 0.15
+                navy_max_range_factor = 0.15
+			}
+
+			cancel_if_invalid = no
+        }
+
+        maximum_navy_funding = {
+
+            cost = 150
+            
+			removal_cost = -1
+
+			modifier = {
+				political_power_gain = -0.50
+                experience_gain_navy_factor = 0.20
+                naval_morale_factor = 0.20
+                navy_org_factor = 0.20
+                repair_speed_factor = 0.20
+                navy_max_range_factor = 0.20
+			}
+
+			cancel_if_invalid = no
+        }
+    }
+
+    air_funding = {
+        law = yes
+		use_list_view = yes
+        
+        minimal_air_funding = {
+            
+            default = yes
+
+            cost = 150
+
+			removal_cost = -1
+
+			modifier = {
+				political_power_gain = -0.10
+			}
+
+			cancel_if_invalid = no
+        }
+
+        low_air_funding = {
+
+            cost = 150
+            
+			removal_cost = -1
+
+			modifier = {
+				political_power_gain = -0.20
+                experience_gain_air_factor = 0.05
+                air_weather_penalty = -0.05
+                air_accidents_factor = -0.05
+                air_mission_efficiency = 0.05
+                air_night_penalty = -0.05
+			}
+
+			cancel_if_invalid = no
+        }
+
+        moderate_air_funding = {
+
+            cost = 150
+            
+			removal_cost = -1
+
+			modifier = {
+				political_power_gain = -0.30
+                experience_gain_air_factor = 0.10
+                air_weather_penalty = -0.10
+                air_accidents_factor = -0.10
+                air_mission_efficiency = 0.10
+                air_night_penalty = -0.10
+			}
+
+			cancel_if_invalid = no
+        }
+
+        high_air_funding = {
+
+            cost = 150
+            
+			removal_cost = -1
+
+			modifier = {
+				political_power_gain = -0.40
+                experience_gain_air_factor = 0.15
+                air_weather_penalty = -0.15
+                air_accidents_factor = -0.15
+                air_mission_efficiency = 0.15
+                air_night_penalty = -0.15
+			}
+
+			cancel_if_invalid = no
+        }
+
+        maximum_air_funding = {
+
+            cost = 150
+            
+			removal_cost = -1
+
+			modifier = {
+				political_power_gain = -0.50
+                experience_gain_air_factor = 0.20
+                air_weather_penalty = -0.20
+                air_accidents_factor = -0.20
+                air_mission_efficiency = 0.20
+                air_night_penalty = -0.20
+			}
+
+			cancel_if_invalid = no
+        }
+    }
+}

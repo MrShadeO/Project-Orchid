@@ -1,0 +1,17 @@
+state={
+	id=134
+	name="STATE_134"
+	provinces={
+		2041 4822 4907 5249 5352 5873 10016 15751 15810 15811 15841 15849 15876 15878 15891 15897 15983 16025 17625 17626 17628 17630 17631 
+	}
+
+	history={
+		owner = NEU
+
+	}
+	
+	manpower=1
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

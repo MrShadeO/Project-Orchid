@@ -1,0 +1,17 @@
+state={
+	id=105
+	name="STATE_105"
+	provinces={
+		171 1624 2225 2979 5200 7263 17188 17189 17223 17240 17256 17259 17265 17294 17297 
+	}
+
+	history={
+		owner = NEU
+
+	}
+	
+	manpower=1
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

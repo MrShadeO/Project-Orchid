@@ -190,6 +190,7 @@ stability_good_modifier = {
 	industrial_capacity_dockyard = 0.20
 	consumer_goods_factor = -0.05
 	political_power_factor = 0.1
+	colonist_gain = 0.10
 }
 
 # applies when stability < 50%
@@ -197,6 +198,7 @@ stability_bad_modifier = {
 	industrial_capacity_factory = -0.50
 	industrial_capacity_dockyard = -0.50
 	political_power_factor = -0.2
+	colonist_gain = -0.20
 }
 
 war_support_good_modifier = {

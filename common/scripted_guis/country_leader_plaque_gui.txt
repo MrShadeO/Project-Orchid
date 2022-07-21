@@ -1,0 +1,34 @@
+scripted_gui = {
+    country_leader_plaque_gui = {
+        window_name = "country_leader_colored_plaque"
+        context_type = player_context
+        parent_window_name = "country_leader_colored_plaque_container"
+
+        visible = {
+            OR = { #Must be a major
+                original_tag = TER
+                original_tag = AFW
+                original_tag = KNC
+                original_tag = LAZ
+                original_tag = YAS
+                original_tag = OTC
+                original_tag = KAN
+                original_tag = EMV
+            }
+        }
+        
+        effects = {
+            
+        }
+        
+        triggers = {
+            
+        }
+        
+        properties = {
+            colored_leader_frame = {
+                image = "[ROOT.GetColoredPlaque]"
+            }
+        }
+    }
+}

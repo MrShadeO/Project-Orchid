@@ -1,0 +1,21 @@
+colonization_speed = {
+    color_type = bad
+    value_type = number
+    precision = 0
+    postfix = days
+    category = country
+}
+
+colonization_limit = {
+    color_type = good
+    value_type = number
+    precision = 0
+    category = country
+}
+
+colonist_gain = {
+    color_type = good
+    value_type = percentage
+    precision = 1
+    category = country
+}

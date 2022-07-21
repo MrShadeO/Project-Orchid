@@ -1,0 +1,17 @@
+state={
+	id=111
+	name="STATE_111"
+	provinces={
+		4985 9868 17370 17377 17424 17427 17436 
+	}
+
+	history={
+		owner = NEU
+
+	}
+	
+	manpower=1
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

@@ -1,0 +1,15 @@
+state={
+	id=28
+	name="STATE_28"
+	provinces={
+		146 867 16832 16862 
+	}
+	
+	history = { 
+		owner = NEU
+	}
+    
+	manpower = 1
+	buildings_max_level_factor = 1.000
+	state_category = town
+}

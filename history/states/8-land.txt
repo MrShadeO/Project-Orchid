@@ -1,0 +1,18 @@
+
+state={
+	id=7
+	name="STATE_7"
+
+	history={
+		owner = NEU
+
+	}
+
+	provinces={
+		863 1379 1413 2069 2070 3425 4441 5473 5550 5635 6340 6358 7464 7716 8375 9754 16257 16274 16300 16304 16310 16318 16330 16341 16344 16364 16388 16412 16413 16439 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

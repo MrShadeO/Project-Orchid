@@ -1,0 +1,17 @@
+state={
+	id=66
+	name="STATE_66"
+	provinces={
+		509 1056 1411 3132 5325 7931 7969 9833 16421 16501 16531 16542 16583 16618 16650 16678 
+	}
+
+	history={
+		owner = NEU
+
+	}
+	
+	manpower=1
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

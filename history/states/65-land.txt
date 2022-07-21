@@ -1,0 +1,17 @@
+state={
+	id=65
+	name="STATE_65"
+	provinces={
+		1300 4649 7251 7255 8223 16720 16781 16867 16912 
+	}
+
+	history={
+		owner = NEU
+
+	}
+	
+	manpower=1
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

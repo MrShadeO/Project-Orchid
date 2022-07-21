@@ -1,0 +1,15 @@
+state={
+	id=45
+	name="STATE_45"
+	provinces={
+		1746 2218 2905 4208 5896 7806 9101 13981 14207 14422 
+	}
+	
+	history = { 
+		owner = NEU
+	}
+    
+	manpower = 1
+	buildings_max_level_factor = 1.000
+	state_category = town
+}

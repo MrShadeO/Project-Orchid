@@ -1,0 +1,18 @@
+state={
+	id=123
+	name="STATE_123"
+	provinces={
+		2011 2810 7434 7768 7852 9291 9630 16871 16914 16922 16927 16953 16981 17003 
+	}
+	
+
+	history={
+		owner = NEU
+
+	}
+	
+	manpower=1
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

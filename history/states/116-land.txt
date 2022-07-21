@@ -1,0 +1,17 @@
+state={
+	id=116
+	name="STATE_116"
+	provinces={
+		1179 2915 4426 5589 5738 5911 9270 17442 
+	}
+
+	history={
+		owner = NEU
+
+	}
+	
+	manpower=1
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

@@ -1,0 +1,17 @@
+state={
+	id=80
+	name="STATE_80"
+	provinces={
+		5350 8087 9090 9433 16320 16406 
+	}
+
+	history={
+		owner = NEU
+
+	}
+	
+	manpower=1
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}
